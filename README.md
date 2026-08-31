@@ -1,6 +1,6 @@
 # Spotify-Clone
 
-# LOCAL CART FOR HOMEMADE GOODS
+
 
 ## About the Project
 
